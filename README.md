@@ -72,6 +72,8 @@ Insight
 
 
 
+# Blog link 
 
+https://vkp295.blogspot.com/2024/10/hr-analytics-dashboard.html 
 
 
